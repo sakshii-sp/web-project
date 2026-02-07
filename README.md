@@ -43,10 +43,10 @@ Students often struggle during learning because they don’t know what exactly t
 ---
 
 ## Team Members
-- **Soumydeep uphdhya** – Idea & Documentation  
-- **Sakshi prajapati**  – Frontend Development  
+- **Soumydeep Upadhyay** – Idea & Documentation  
+- **Sakshi Prajapati**  – Frontend Development  
 - **Sanskriti       **  – Backend / AI Logic  
-- **  Ram sonikiya  **  – Research & Testing  
+- **  Ram Sonakiya  **  – Research & Testing  
 
 ---
 
